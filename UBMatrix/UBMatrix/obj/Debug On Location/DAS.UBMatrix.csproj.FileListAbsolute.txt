@@ -1,0 +1,17 @@
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.dll
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.pdb
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.XML
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug On Location\DAS.UBMatrix.csprojResolveAssemblyReference.cache
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.dll
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.XML
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.pdb
+C:\Projects\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.dll
+C:\Projects\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.pdb
+C:\Projects\UBMatrix\UBMatrix\bin\Debug On Location\UBMatrix.XML
+C:\Projects\UBMatrix\UBMatrix\obj\Debug On Location\DAS.UBMatrix.csprojResolveAssemblyReference.cache
+C:\Projects\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.dll
+C:\Projects\UBMatrix\UBMatrix\obj\Debug On Location\UBMatrix.pdb

@@ -1,0 +1,1356 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UBMatrix</name>
+    </assembly>
+    <members>
+        <member name="T:DAS.UBMatrix.Log">
+            <summary>Log singleton</summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.#cctor">
+            <summary>
+            Static constructor to initiate logging.
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Log.Switch">
+            <summary>Trace switch</summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.Write(System.Boolean,System.String,System.String)">
+            <summary>Log a message</summary>
+            <param name="log">log flag (if true the message will be logged)</param>
+            <param name="message">message to log</param>
+            <param name="category">message category</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.Exception(System.Exception)">
+            <summary>Exception log</summary>
+            <param name="ex">exception to log</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.Exception(System.String)">
+            <summary>Exception log</summary>
+            <param name="message">exception message</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.TraceOn(System.String,System.String)">
+            <summary>
+            Turn on logging
+            </summary>
+            <param name="filename"></param>
+            <param name="log_level_string"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Log.#ctor">
+            <summary>Hide this</summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Log.Verbose">
+            <summary>Verbose log</summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Log.Info">
+            <summary>Info log</summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Log.Warning">
+            <summary>Warning log</summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Log.Error">
+            <summary>Error log</summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UnusedUBMatrixFunctions.GenerateUBFromLatticeRefine(DAS.UBMatrix.MotorIncidentAngles[])">
+             <summary>
+             [It is not used by any client/user function now]
+             
+             Generate UB Matrix by input unit cell parameter and some reflections
+             Refinement (including linear least square fitting and nonlinear (in future)
+             will be applied if the number of input reflections are larger than 2. 
+             </summary>
+            <source>UnitCell.for: SUBROUTINE GenUB(GI,NCOUNT,TOL)</source> 
+             <param name="IncidentAngles"></param>
+             <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UnusedUBMatrixFunctions.Params(DAS.UBMatrix.Matrix,DAS.UBMatrix.UnitCell,DAS.UBMatrix.UnitCell,System.Double[])">
+            <source>SUBROUTINE PARAMS</source>
+            <VZ>Guess XTX = tild(UB) * (UB) = G^-1</VZ>
+        </member>
+        <member name="M:DAS.UBMatrix.UnusedUBMatrixFunctions.MxLNeq(DAS.UBMatrix.Matrix,System.Int32,System.Int32,System.Int32,System.Int32[],System.Double@,System.Int32@,System.Int32@)">
+            <source>SUBROUTINE MXLNEQ(A,NRANK,IDA,DET,JRANK,EPS,NTEMP,NCV)</source>
+        </member>
+        <member name="M:DAS.UBMatrix.UnusedUBMatrixFunctions.RefineUnitCellLsq(DAS.UBMatrix.Reflection[],System.String)">
+            <source>subroutine lsvec(ICRSTP)</source>
+        </member>
+        <member name="T:DAS.UBMatrix.MillerIndices">
+            <summary>
+            Miller incides for a reflection
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.Vector">
+            <summary>
+            Vector
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Vector.mVector">
+            <summary>
+            1D array for storing the vector
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Vector.mDimension">
+            <summary>
+            Vector size
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.#ctor(System.Int32)">
+            <summary>
+            Constructor from (0, 0, 0)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            Constructor with given values
+            </summary>
+            <param name="ii"></param>
+            <param name="ij"></param>
+            <param name="ik"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.ToString">
+            <summary>
+            Customerized output
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Length">
+            <summary>
+            Calculate the length/scale of the vector
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Project(System.Int32,System.Int32)">
+            <summary>
+            Length of vector projected to a plane 
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Times(System.Double,DAS.UBMatrix.Vector)">
+            <summary>
+            B = c X I
+            </summary>
+            <param name="c"></param>
+            <param name="vB"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Normalize(DAS.UBMatrix.Vector)">
+            <summary>
+            Normalize this vector
+            </summary>
+            <param name="vN"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.CrossProduct(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector,DAS.UBMatrix.Vector)">
+            <summary>
+            C = a x b
+            </summary>
+            <param name="u"></param>
+            <param name="v"></param>
+            <param name="w"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.DotProduct(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector)">
+            <summary>
+            prod = u .dot v
+            </summary>
+            <param name="u">Vector</param>
+            <param name="v">Vector</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Plus(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector,DAS.UBMatrix.Vector)">
+            <summary>
+            V_c = V_a + V_b
+            </summary>
+            <param name="vA"></param>
+            <param name="vB"></param>
+            <param name="vC"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Times(DAS.UBMatrix.Vector,System.Double,DAS.UBMatrix.Vector)">
+            <summary>
+            B = c X A
+            </summary>
+            <param name="vA"></param>
+            <param name="c"></param>
+            <param name="vB"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Set(System.Int32,System.Double)">
+            <summary>
+            Set a value to a specific position in vector
+            </summary>
+            <param name="pos"></param>
+            <param name="v"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.SetToZero">
+            <summary>
+            Set To Zero
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Get(System.Int32)">
+            <summary>
+            Get a value from a specific position
+            </summary>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.CopyTo(DAS.UBMatrix.Vector)">
+            <summary>
+            Copy the content to another Vector
+            </summary>
+            <param name="target"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.UnitVector">
+            <summary>
+            Generate a unit vector
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.UnitVector(DAS.UBMatrix.Vector)">
+            <summary>
+            Calculate unit vector
+            </summary>
+            <param name="vUnit">Vector</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Vector.Print">
+            <summary>
+            Print the vector
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Vector.i">
+            <summary>
+            scale at i (x) direction
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Vector.j">
+            <summary>
+            scale at j (y) direction
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Vector.k">
+            <summary>
+            value at k (z) direction
+            </summary>
+            
+        </member>
+        <member name="P:DAS.UBMatrix.Vector.dimension">
+            <summary>
+            size of the vector
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Vector.V">
+            <summary>
+            1D array as stroage of the vector 
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.#ctor">
+            <summary>
+            Constructor of an (HKL)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.SetFromCalculatedValue(DAS.UBMatrix.Vector)">
+            <summary>
+            Set the (HKL) from a caculated value, i.e., may not be correct
+            </summary>
+            <param name="inputhkl"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.ConvertToIntegers">
+            <summary>
+            Convert the values to nearest integers (and cast back to double)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.ToString">
+            <summary>
+            Customized format output
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.EqualValue(DAS.UBMatrix.MillerIndices)">
+            <summary>
+            Evaluate whether two Miller Indices are of same values
+            </summary>
+            <param name="m2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.EqualIntegerValue(DAS.UBMatrix.MillerIndices)">
+            <summary>
+            Evaluate whether two Miller Indices are of same values
+            </summary>
+            <param name="m2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.ZeroHKL">
+            <summary>
+            Test whether it is a (0, 0, 0) HKL
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MillerIndices.Normalize(DAS.UBMatrix.MillerIndices,DAS.UBMatrix.Matrix)">
+            <summary>
+            Normalize a Miller index with G^-1 matrix
+            </summary>
+            <param name="normindex"></param>
+            <param name="GInv"></param>
+        </member>
+        <member name="P:DAS.UBMatrix.MillerIndices.Error">
+            <summary>
+            Error of calculated (HKL)
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MillerIndices.H">
+            <summary>
+            H
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MillerIndices.K">
+            <summary>
+            K
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MillerIndices.L">
+            <summary>
+            L
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MillerIndices.OriginalHKL">
+            <summary>
+            Original input HKL
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.MotorIncidentAngles">
+            <summary>
+            Motor incident angle
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.#ctor">
+            <summary>
+            constructor
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.ToString">
+            <summary>
+            override customized format output
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.CopyTo(DAS.UBMatrix.MotorIncidentAngles)">
+            <summary>
+            Copy the current value to antoher incident angle
+            </summary>
+            <param name="angle2"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.ZeroAngle">
+            <summary>
+            See if all angles are zero
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.UnitVectorFromAngle(DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.Vector)">
+             <summary>
+             Calculate h_phi from incident angle omega, gamma, psi
+             Same as Equation (22) in the Busing paper: 
+             ICalcH --> Incident to calculate u_pHi
+             Mapping: 2-> omega, 3 --> chi, 4 --> phi
+            </summary>
+            <source>SUBROUTINE ICalcH(Angl,hphi)</source>
+             <param name="angl">Incident angle</param>
+             <param name="uphi">Output u_phi</param>
+        </member>
+        <member name="M:DAS.UBMatrix.MotorIncidentAngles.VectorFromAngles(DAS.UBMatrix.MotorIncidentAngles,System.Double,DAS.UBMatrix.Vector)">
+            <summary>
+            CALCULATE VECTOR COMPONENTS FROM ANGLES - 
+            NOTE: OMEGA MUST BE DEVIATION FROM BISECTING POSITION DIMENSION ANGL(4),THPHI(3)
+            Math: h = u x q as u is Equation(22) in Busing 
+            </summary>
+            <source>UBCALS.FOR -> CALCH</source>
+            <param name="angl"></param>
+            <param name="mWaveLength"></param>
+            <param name="h_iphi"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DAS.UBMatrix.MotorIncidentAngles.twotheta">
+            <summary>
+            2-theta
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MotorIncidentAngles.omega">
+            <summary>
+            angle omega... (2) in SINGLE
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MotorIncidentAngles.chi">
+            <summary>
+            angle chi
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.MotorIncidentAngles.phi">
+            <summary>
+            angle phi
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.Reflection">
+            <summary>
+            A reflection
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Reflection.#ctor">
+            <summary>
+            constructor
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Reflection.Print">
+            <summary>
+            Neat Print
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Reflection.ToString">
+            <summary>
+            Override ToSring()
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Reflection.ImportDataFile(System.String)">
+            <summary>
+            Import a data file and convert to a 2-D array of strings
+            </summary>
+            <param name="filename">File name</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Reflection.ImportFromFileDAS(System.String)">
+            <summary>
+            Import reflections from a data file conformed to DAS format,i.e.,
+            in the order of
+            2theta, omega, chi, phi, h, k, l for HB3A
+            </summary>
+            <param name="filename">Input file name</param>
+            <returns></returns>
+        </member>
+        <member name="P:DAS.UBMatrix.Reflection.TrustDegreeMillerIndices">
+            <summary>
+            How trustful the (HKL) can be
+            -1: does  not make any sense
+            0 : the hkl type is correct
+            1 : it is correct
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Reflection.MillerIndex">
+            <summary>
+            miller indices (hkl) of the reflection 
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Reflection.MotorAngles">
+            <summary>
+            motor incident angle
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.UBMatrix">
+            <summary>
+            UB matrix including all operations with UB matrix
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.Matrix">
+            <summary>
+            General matrix, including all operation with it
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Matrix.mSize">
+            <summary>
+            matrix size for square matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Matrix.rowSize">
+            <summary>
+            row size (a for matrix a x b)
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Matrix.colSize">
+            <summary>
+            column size (b for matrix a x b)
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.Matrix.mM">
+            <summary>
+            matrix storage 2D array
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.#ctor(System.Int32)">
+            <summary>
+            Constructor for square matrix
+            </summary>
+            <param name="size"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.#ctor(System.Int32,System.Int32)">
+            <summary>
+            General matrix constructor 
+            </summary>
+            <param name="inprowsize"></param>
+            <param name="inpcolsize"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.MulMatrix(DAS.UBMatrix.Matrix,DAS.UBMatrix.Matrix,DAS.UBMatrix.Matrix)">
+            <summary>
+            C = A X B
+            </summary>
+            <param name="A"></param>
+            <param name="B"></param>
+            <param name="C"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.LUDcomp(DAS.UBMatrix.Matrix,System.Int32[],System.Double@)">
+            <summary>
+            LU Decomposition
+            </summary>
+            <note>Modified according to numerical recipe</note>
+            <LastMajorModification>2009.09.30</LastMajorModification>
+            <param name="A">Matrix In = A, Out = LU</param>
+            <param name="indx">Out = row permutation</param>
+            <param name="d">Out = flag of even or odd number of row interchanges</param>
+            <returns>Error code</returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.LUBkSb(DAS.UBMatrix.Matrix,System.Int32[],System.Double[])">
+            <summary>
+            2nd step of LU decomposition
+            </summary>
+            <param name="A">LU Matrix</param>
+            <param name="indx">pivoting index</param>
+            <param name="b">in = right-hand side vector.  out = solution</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Orthog(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector,DAS.UBMatrix.Matrix)">
+            <summary>
+            Generate an orthogonal matrix with 2 given vector
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <param name="X"></param>
+            <returns></returns>               
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.MakeBasis(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector,DAS.UBMatrix.Matrix)">
+             This MakeBasis is different from Matrix.Orthog()
+             FIXME - Should put this method back to Matrix
+            <source>SUBROUTINE MAKEBASIS(V1,V2,D)</source>
+            <algorithm>
+            3. the resultant three basis are at
+               a. u_i = u1 + u2 / |u1 + u2|;
+               b. u_k = v1 x v2 ;
+               c. u_j = u_k x u_i;
+            </algorithm>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.MultVector(DAS.UBMatrix.Matrix,DAS.UBMatrix.Vector,DAS.UBMatrix.Vector)">
+            <summary>
+            Matrix multiply Vector c = M x b
+            </summary>
+            <param name="M"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.ToString">
+            <summary>
+            Customerized information output
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.CopyToMatrix(DAS.UBMatrix.Matrix)">
+            <summary>
+            Copy all the elements to another matrix
+            </summary>
+            <param name="Y"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.InvertMatrix(DAS.UBMatrix.Matrix,System.Double@)">
+            <summary>
+            Invert this matrix
+            </summary>
+            <param name="Y">Result matrix (output)</param>
+            <param name="det">Output determination</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Transpose(DAS.UBMatrix.Matrix)">
+            <summary>
+            Transpose 
+            </summary>
+            <param name="outmatrix"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.SetColumn(System.Int32,DAS.UBMatrix.Vector)">
+            <summary>
+            Set a vector to a column in matrix
+            </summary>
+            <param name="col"></param>
+            <param name="vector"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.SetColumn(System.Int32,System.Int32,System.Double[])">
+            <summary>
+            Set a vector to a column in matrix
+            </summary>
+            <param name="n">size of vector</param>
+            <param name="col">number of column to set value</param>
+            <param name="vector">array of doubles with size n</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.SetToZero">
+            <summary>
+            Set all elements in the matrix to zero
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Project(System.Int32)">
+            <summary>
+            Project a row to a vector
+            </summary>
+            <param name="row"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Duplicate">
+            <summary>
+            Duplicate this matrix
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Print">
+            <summary>
+            Print itself
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.Print(System.Boolean)">
+            <summary>
+            Print Matrix
+            </summary>
+            <param name="longdigit">select b/w long digit output or short</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.MultVector(DAS.UBMatrix.Vector,DAS.UBMatrix.Vector)">
+            <summary>
+            c = M x b
+            </summary>
+            <param name="b">(in)</param>
+            <param name="c">(out)</param>
+        </member>
+        <member name="M:DAS.UBMatrix.Matrix.MultVector(DAS.UBMatrix.Vector)">
+            <summary>
+            Matrix multiply Vector
+            </summary>
+            <param name="b">Vector</param>
+            <returns>Vector</returns>
+        </member>
+        <member name="P:DAS.UBMatrix.Matrix.RowSize">
+            <summary>
+            row size
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Matrix.ColSize">
+            <summary>
+            column size
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.Matrix.M">
+            <summary>
+            storage 2d array
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.mWaveLength">
+            <summary>
+            wave length
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.mU">
+            <summary>
+            U matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.mB">
+            <summary>
+            B matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.mG">
+            <summary>
+            G matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.mGI">
+            <summary>
+            Inverted G matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_invertUB">
+            <summary>
+            inversed UB 
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_covarMatrix">
+            <summary>
+            Covariance matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_directUnitCell">
+            <summary>
+            Direct unit cell
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_reciprocalUnitCell">
+            <summary>
+            Reciprocal unit cell
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_storedDirectUnitCell">
+            <summary>
+            Stored direct unit cell
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_arrTolerance">
+            <summary>
+            UB matrix calculation counter
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.m_chi2">
+            <summary>
+            Chi square
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.#ctor(System.Double)">
+            <summary>
+            Constructors
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.#ctor">
+            <summary>
+            Construct UB matrix without wavelength
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBMatrix.PrevUB">
+            <summary>
+            UB matrix before refinement or etc. 
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix._MakeUB(DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MotorIncidentAngles,System.Int32@)">
+            <summary>
+            FIXME - should compare with Matrix.CalUB()... They are similar. 
+            FIXME - Reorginaize the code so that it will reflect the correct solution
+            </summary>
+            <source>UnitCell.FOR -> MAKEUB </source>
+            <param name="vH1"></param>
+            <param name="vH2"></param>
+            <param name="ang1"></param>
+            <param name="ang2"></param>
+            <param name="ierr"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix._CalculateError(DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MillerIndices,System.Double@,System.Double@)">
+            <summary>
+            Base step to calculate error of a UB matrix to an observed reflection
+            </summary>
+            <param name="iangle"></param>
+            <param name="mindex"></param>
+            <param name="diffangle"></param>
+            <param name="cal2theta"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.SetTolerance(System.Int32,System.Double)">
+            <summary>
+            Set tolerance
+            </summary>
+            <param name="index">int, 0 for 2theta, 1 for Eulerian angles</param>
+            <param name="value">double, the value to set</param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix._CalculateUnitCellFromUBMatrix">
+            <summary>
+            Calculate Cell parameters after the UB matrix is calculated or refined
+            (Won't be necessary if UB matrix is generated from known cell parameters 
+            and 2 reflections)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix._CalculateChi2(DAS.UBMatrix.Reflection[])">
+            <summary>
+            Calculate chi^2 of observed motor angles and miller indices 
+            </summary>
+            <param name="tReflections"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.SaveToXMLFile(System.String)">
+            <summary>
+            Save UB matrix to an XML file, including
+            1. direct cell
+            2. ub matrix
+            </summary>
+            <param name="pathfilename"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.LoadFromXMLFile(System.String)">
+            <summary>
+            Load from an XML File
+            </summary>
+            <param name="pathfilename"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.SetDirectUnitCell(DAS.UBMatrix.UnitCell)">
+            <summary>
+            Set the direct unit cell for this UB matrix
+            This uses the method of CBF to determine the reciprocal lattice parameters 
+            without a matrix inversion.
+            </summary>
+            <param name="inpcell"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.GetDirectUnitCell(System.Double[],System.Double[])">
+            <summary>
+            Get direct cell information
+            </summary>
+            <param name="edges"></param>
+            <param name="angles"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.StoreUnitCell">
+            <summary>
+            Sotre the current Unit Cell
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.RestoreUnitCell">
+            <summary>
+            Restore the Unit Cell and related objects
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalBMatrix">
+            <summary>
+            Calcualte B matrix from the metrical matrix of reciprocal unit cell
+            <source>UnitCell.For -> MAKEB(...)</source>
+            B is caluclated directly has describe in Equation-3 of bushing and levy
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.MakeUB(DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MotorIncidentAngles,System.Int32@)">
+            <summary>
+            Make UB matrix by 2 reflections (motor angles and miller index)
+            This is a public wrapping
+            </summary>
+            <param name="vH1"></param>
+            <param name="vH2"></param>
+            <param name="ang1"></param>
+            <param name="ang2"></param>
+            <param name="ierr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalMotorAnglesFromMillerIndex(DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MotorIncidentAngles,System.Boolean,System.Int32@)">
+            <summary>
+            CALCULATE ANGLES FROM VECTOR - IERR NON-ZERO IF NOT ACCESSIBLE            
+            This is the algorithm to calculate the incident angle from given (HKL) and UB matrix
+            </summary>
+            <param name="inphkl">Input Miller index</param>
+            <param name="angl">Output motor angles calculated from HKL and UB matrix</param>
+            <param name="fixed_phi"></param>
+            <param name="ierror"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalUBMatrix(DAS.UBMatrix.Reflection,DAS.UBMatrix.Reflection,DAS.UBMatrix.Reflection)">
+            <summary>
+            ROUTINE TO CALCULATE AN ORIENTATION MATRIX FROM THREE reflections
+            need checks to see if the h,k,l vectors are input.
+            </summary>
+            <param name="r1">Reflection</param>
+            <param name="r2">Reflection</param>
+            <param name="r3">Reflection</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalculateHKLFromIncidentAngle(DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MillerIndices,DAS.UBMatrix.Vector)">
+            <summary>
+            h_{hkl} =  u x (UB)^-1 /( lambda / (2 sin theta ) ) = u x (UB)^-1 x q
+            Class variable mInvUB will be used, other than UB matrix
+            </summary>
+            <param name="iangle">(In) incident angle</param>
+            <param name="hkl">(Out) miller indices</param>
+            <param name="uPhi">(Out) u_phi</param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.Calculate2ThetaFromHKL(DAS.UBMatrix.MillerIndices,System.Double@)">
+            <summary>
+            Calculate 2theta from given (HKL) and UB matrix
+            </summary>
+            <param name="vhkl"></param>
+            <param name="d">1/q (in fact) for inverse of d-spacing</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalculateAngle2MillerIndicies(DAS.UBMatrix.MillerIndices,DAS.UBMatrix.MillerIndices)">
+            <summary>
+            Calculate the angle between 2 miller indices
+            </summary>
+            <param name="m1"></param>
+            <param name="m2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.GenerateReflectionListInverse(System.Int32[])">
+            <summary>
+            Generate a list of reflections in the order from largest (H, K, L)
+            </summary>
+            <param name="limits"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CheckError(DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MillerIndices,System.Double,System.Double,System.Double@,System.Double@)">
+            <summary>
+            Check Error of a UB matrix for
+            a. calculated 2theta vs. observed 2theta
+            b. |uphi_obs dot uphi_cal| == 1???
+            </summary>
+            <param name="iangle"></param>
+            <param name="mindex"></param>
+            <param name="toleranceiangle"></param>
+            <param name="tolerancemindex"></param>
+            <param name="diff2theta"></param>
+            <param name="diffangle"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.TestUBByReflections(DAS.UBMatrix.MotorIncidentAngles[],DAS.UBMatrix.MillerIndices[],System.Double[],System.Double[],System.Int32@)">
+            <summary>
+            Routine to test how many reflections in list can be fitted by matrix UB
+            </summary>
+            <source>UnitCell.For: TestRef()</source>
+            <param name="IncidentAngles"></param>
+            <param name="calHKLs"></param>
+            <param name="diff2theta"></param>
+            <param name="diffuphi"></param>
+            <param name="nfound"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.GenerateUBFromUnIndexedReflectiuons(DAS.UBMatrix.MotorIncidentAngles[],System.Int32)">
+            <summary>
+            VZ's version to generate UB matrix from a series of reflections and 
+            known lattice parameters
+            The best fitting UB matrix is stored in mM[][], while
+            the next 10 best fitting UB matrices are stored in a list too. 
+            </summary>
+            <param name="IncidentAngles"></param>
+            <param name="numreflections">int, number of reflections (in case input list is larger)</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.CalculateUBMatrixError(DAS.UBMatrix.Reflection[])">
+            <summary>
+            Calcualte UB matrix error as
+            \sum_{reflections} ([HKL] - [hkl])^2
+            as (hkl) is the nearest integer version of (HKL)
+            </summary>
+            <param name="reflecslist"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.RefineUBLinearLSF(DAS.UBMatrix.Reflection[],System.Int32)">
+            <summary>
+            Refine UB matrix withh Linear least square fitting
+            Code is cleaned from SINGLE (used be versioned by VZ)
+            a) linear least square fitting
+            b) reserve covariant matrix
+            c) calculate chi^2
+            d) calculate refined lattice parameter
+            </summary>
+            <param name="reflectsList"></param>
+            <param name="nlsq"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.StoreUBMatrix(DAS.UBMatrix.Matrix,DAS.UBMatrix.Matrix)">
+            <summary>
+            Store present UB matrix and inverted UB matrix 
+            </summary>
+            <param name="storedUB"></param>
+            <param name="storeInvUB"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.RestoreUBMatrix(DAS.UBMatrix.Matrix,DAS.UBMatrix.Matrix)">
+            <summary>
+            Restore to present UB matrix and inverted UB matrix
+            </summary>
+            <param name="storedUB"></param>
+            <param name="storedInvUB"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.GridRefineUBMatrix(DAS.UBMatrix.Reflection[],DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MotorIncidentAngles,DAS.UBMatrix.MotorIncidentAngles)">
+            <summary>
+            Refine UB matrix on a 3D grid of 2theta, omega and chi in order to find the 
+            motors offsets with smallest UB matrix error
+            </summary>
+            <param name="reflectionlist"></param>
+            <param name="motoranglerange"></param>
+            <param name="motoranglestep"></param>
+            <param name="bestMotorShift">[Output] best motor anges</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.GenerateReflectionOffsetMotorPositions(DAS.UBMatrix.Reflection[],System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Generate a new list of reflections with motor angle shifted
+            </summary>
+            <param name="reflectionlist"></param>
+            <param name="delta2thata"></param>
+            <param name="deltaomega"></param>
+            <param name="deltachi"></param>
+            <param name="deltaphi"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.ListPairAngles(DAS.UBMatrix.MotorIncidentAngles[],System.Int32,System.Double[],System.Int32[],System.Int32[])">
+            <summary>
+            List all pairs of angles of the given incident angle
+            </summary>
+            <param name="IncidentAngles"></param>
+            <param name="ncount"></param>
+            <param name="ang12list"></param>
+            <param name="pair1list"></param>
+            <param name="pair2list"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBMatrix.RefPick(DAS.UBMatrix.MotorIncidentAngles[],System.Int32@,System.Int32@,System.Double@)">
+            <summary>
+            Routine to select the two trial reflections for generation of the orientation matrix
+            Usually the first two are selected
+            </summary>
+            <source>subroutine RefPick(ncount,n1,n2,ang12)</source>
+            <param name="IncidentAngles">Array of incident angles</param>
+            <param name="n1">first pickup</param>
+            <param name="n2">second pickup</param>
+            <param name="ang12">angles b/w two pickups in coordinator (phi)</param>
+            <returns></returns>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.WaveLength">
+            <summary>
+            Wavelength
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.U">
+            <summary>
+            U matrix of this UB matrix
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.B">
+            <summary>
+            B matrix of this UB matrix
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.CovarianceMatrix">
+            <summary>
+            Covariance matrix
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.CrystallCell">
+            <summary>
+            Unit cell (direct space)
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.Tolerance_2Theta">
+            <summary>
+            Tolerance for 2theta
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.Tolerance_Euler">
+            <summary>
+            Tolerance for Eulerian angle
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBMatrix.Chi2">
+            <summary>
+            Chi^2 of least square fitting
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.UBStorage">
+            <summary>
+            Class to store UB matrix candidates for future processing
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBStorage.avgUB">
+            <summary>
+            UB matrix average from all added UB matrix
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UBStorage.sigUB">
+            <summary>
+            sigma (uncerntainty of all UB)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBStorage.#ctor(DAS.UBMatrix.MotorIncidentAngles[])">
+            <summary>
+            Initialization
+            </summary>
+            <param name="inprawincangles">list of incident angles as input</param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBStorage.AddUBSuite(DAS.UBMatrix.Matrix,System.Int32[],DAS.UBMatrix.MillerIndices[],System.Double[],System.Double[])">
+            <summary>
+            Add a reflection result to the storage
+            </summary>
+            <param name="calUB"></param>
+            <param name="anglepair"></param>
+            <param name="inpcalhkl"></param>
+            <param name="inpdiff2theta"></param>
+            <param name="inpdiffUphi"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UBStorage.Stat">
+            <summary>
+            Do statistic to all the stored UB matrix
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UBStorage.Print(System.String)">
+            <summary>
+            Print customized format string
+            </summary>
+            <param name="filename"></param>
+        </member>
+        <member name="P:DAS.UBMatrix.UBStorage.Tolerance2Theta">
+            <summary>
+            tolerance on calculated and observed 2theta
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UBStorage.ToleranceUphi">
+            <summary>
+            tolerance on the angle b/w calculated and observed u_phi
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.UnitCell">
+            <summary>
+            Unit Cell storage and operation
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.UnitCell.celltype">
+            <summary>
+            1 for direct/realspace cell; -1 for reciprocal cell
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.#ctor">
+            <summary>
+            construct a unit cell
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.CalcualteVolume(System.String@)">
+            <summary>
+            Calculate the volume of the unit cell
+            (usually called after all axiles and angles are set)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.CalculateReciprocalUnitCell(DAS.UBMatrix.UnitCell)">
+            <summary>
+            from the directcell parameters this calculates the recprical cell and the reciprical volume.
+            </summary>
+            <param name="rcell"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.CalculateFromG(DAS.UBMatrix.Matrix)">
+            <summary>
+            Calculate direct unit cell from G matrix or
+            Calculate reciprocal unit cell from G^-1 matrix
+            </summary>
+            <param name="mG">3x3 matrix as G natrux</param>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.CalculateG(DAS.UBMatrix.Matrix)">
+            <summary>
+            Calculate metric matrix (G) from unit cell
+            </summary>
+            <source>SUBROUTINE METR(CELL,GI,VOL2)</source>
+            <param name="mG">[out] Matrix G</param>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.CopyTo(DAS.UBMatrix.UnitCell)">
+            <summary>
+            Copy the current lattice parameters and type to the target unit cell
+            </summary>
+            <param name="targetcell"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.Print">
+            <summary>
+            Print the information of this unit cell
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.ToString">
+            <summary>
+            Customerized format output
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.UnitCell.GenMetricMatrix(DAS.UBMatrix.UnitCell,DAS.UBMatrix.Matrix,System.Double@)">
+            <summary>
+            SUBROUTINE METR(CELL,GI,VOL2)
+            Obtain reciprocal matrical matrix and square of volume
+            </summary>
+            <param name="cell"></param>
+            <param name="mGI"></param>
+            <param name="vol2"></param>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.Type">
+            <summary>
+            Type of cell, real space or reciprocal space
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.a">
+            <summary>
+            a
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.b">
+            <summary>
+            b
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.c">
+            <summary>
+            c
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.alpha">
+            <summary>
+            alpha
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.beta">
+            <summary>
+            beta
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.gamma">
+            <summary>
+            gamma
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.Axiles">
+            <summary>
+            vector as [a, b, c]
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.Angles">
+            <summary>
+            vector as [alpha, beta, gamma]
+            </summary>
+        </member>
+        <member name="P:DAS.UBMatrix.UnitCell.Volume">
+            <summary>
+            unit cell volume
+            </summary>
+        </member>
+        <member name="T:DAS.UBMatrix.DasMath">
+            <summary>
+            some math methods used in DAS.UBMatrix Package
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.DasMath.rad">
+            <summary>
+            constant, rad = pi/180 (unit in /degree)
+            </summary>
+        </member>
+        <member name="F:DAS.UBMatrix.DasMath.radin">
+            <summary>
+            constant, inverse of rad (unit in degree)
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.SinD(System.Double)">
+            <summary>
+            sin(degree)
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.CosD(System.Double)">
+            <summary>
+            Cos(degree)
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.AcosD(System.Double)">
+            <summary>
+            cos^-1(degree)
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.AsinD(System.Double)">
+            <summary>
+            sin^-1(degree)
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.NearestInteger(System.Double)">
+            <summary>
+            Return the nearest integer of a double x
+            </summary>
+            <param name="x">double, to be converted</param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Atan2(System.Double,System.Double)">
+            <summary>
+            tan(x to y)
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Sort(System.Double[],System.Int32[][],System.Double[][])">
+            <summary>
+            Sorting n arrays together, with one main arrays and unlimit arrays sorted
+            according to the main array
+            </summary>
+            <param name="mainarray"></param>
+            <param name="islavearrays"></param>
+            <param name="dslavearrays"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Swap(System.Double[],System.Int32[][],System.Double[][],System.Int32,System.Int32)">
+            <summary>
+            Swap a series of arrays
+            </summary>
+            <param name="a"></param>
+            <param name="iaslave"></param>
+            <param name="daslave"></param>
+            <param name="s"></param>
+            <param name="t"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Swap(System.Double[],System.Int32,System.Int32)">
+            <summary>
+            Swap two elements in the array
+            </summary>
+            <param name="a"></param>
+            <param name="i"></param>
+            <param name="j"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Swap(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            Swap two elements in the array
+            </summary>
+            <param name="a"></param>
+            <param name="i"></param>
+            <param name="j"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.HeapSort(System.Double[],System.Int32)">
+            <summary>
+            Heap sorting an array with length known
+            </summary>
+            <param name="a"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.HeapSort(System.Double[],System.Int32[][],System.Double[][],System.Int32)">
+            <summary>
+            Main function of heap sorting
+            </summary>
+            <param name="a"></param>
+            <param name="iasalve"></param>
+            <param name="daslave"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Heapify(System.Double[],System.Int32)">
+            <summary>
+            Make it to heap
+            </summary>
+            <param name="a"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.Heapify(System.Double[],System.Int32[][],System.Double[][],System.Int32)">
+            <summary>
+            Heapify
+            </summary>
+            <param name="a"></param>
+            <param name="iaslave"></param>
+            <param name="daslave"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.SiftDown(System.Double[],System.Int32,System.Int32)">
+            <summary>
+            Shift down the sequence
+            </summary>
+            <param name="a"></param>
+            <param name="start"></param>
+            <param name="end"></param>
+        </member>
+        <member name="M:DAS.UBMatrix.DasMath.SiftDown(System.Double[],System.Int32[][],System.Double[][],System.Int32,System.Int32)">
+            <summary>
+            Sift down
+            </summary>
+            <param name="a"></param>
+            <param name="iaslave"></param>
+            <param name="daslave"></param>
+            <param name="start"></param>
+            <param name="end"></param>
+        </member>
+        <member name="T:DAS.UBMatrix.XmlUtility">
+            <summary>
+            Utility functions 
+            </summary>
+        </member>
+        <member name="M:DAS.UBMatrix.XmlUtility.ConvertToString(System.Double[][])">
+            <summary>
+            Convert a 2D array (matrix) to string of all elements 
+            </summary>
+            <param name="matrix"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DAS.UBMatrix.XmlUtility.ConvertTo2DDoubleArray(System.String,System.Double[][])">
+            <summary>
+            Convert data in the string to a 2D double array
+            </summary>
+            <param name="ins"></param>
+            <param name="matrix"></param>
+        </member>
+    </members>
+</doc>

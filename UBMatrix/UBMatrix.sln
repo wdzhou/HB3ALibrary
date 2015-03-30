@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F25423F-FF8C-4844-82D0-9BAEABD6047E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAS.UBMatrix", "UBMatrix\DAS.UBMatrix.csproj", "{055AB792-7038-4D08-ABE6-2FB97F083076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testers", "Testers\Testers.csproj", "{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabVIEWAdaptor", "LabVIEWAdaptor\LabVIEWAdaptor.csproj", "{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug On Location|Any CPU = Debug On Location|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Debug On Location|Any CPU.ActiveCfg = Debug On Location|Any CPU
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Debug On Location|Any CPU.Build.0 = Debug On Location|Any CPU
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055AB792-7038-4D08-ABE6-2FB97F083076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Debug On Location|Any CPU.ActiveCfg = Debug On Location|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Debug On Location|Any CPU.Build.0 = Debug On Location|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CB8CCA-6FF5-4D97-9BA3-34B4B8E16138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Debug On Location|Any CPU.ActiveCfg = Debug On Location|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Debug On Location|Any CPU.Build.0 = Debug On Location|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BAC11D-964E-40B9-B83F-10FBAFC74AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

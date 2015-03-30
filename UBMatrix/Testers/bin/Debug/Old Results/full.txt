@@ -1,0 +1,1566 @@
+G^-1:   0.0339  0.0000  0.0000  
+0.0000  0.0339  0.0000  
+0.0000  0.0000  0.0339  
+
+B:   0.0339  0.0000  0.0000  
+0.0000  0.0339  0.0000  
+0.0000  0.0000  0.0339  
+
+Incident Angle 1:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90
+	u_phi 1:   -0.156264115295816, 0.982865669849477, 0.0977578707938922,   |V| = 1
+
+	Incident Angle 2:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161
+	u_phi 2:   -0.979815559700136, 0.170980060521565, 0.103572621254609,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   70.6522211515985
+	Limit of (HKL) of n1 and n2:   3, 3, 3)
+
+	Incident Angle 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75
+	u_phi 2:   0.469650680496371, 0.38991289510228, 0.792083437866399,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   67.2140475554737
+	Limit of (HKL) of n1 and n2:   3, 3, 3)
+
+	Incident Angle 2:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4
+	u_phi 2:   -0.756343735695556, 0.639319614474781, 0.138616680172006,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   40.5259441586873
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+	
+	Incident Angle 2:   2theta: 33.32;  omega: 15.29;  chi: 33.2;  phi: 66
+	u_phi 2:   0.0873839015294524, 0.844622102482348, 0.528183261521784,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   29.7576355005226
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+
+Incident Angle 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161
+	u_phi 1:   -0.979815559700136, 0.170980060521565, 0.103572621254609,   |V| = 1
+	
+	Incident Angle 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75
+	u_phi 2:   0.469650680496371, 0.38991289510228, 0.792083437866399,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   108.146102560272
+	Limit of (HKL) of n1 and n2:   3, 3, 3)
+	
+	Incident Angle 2:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4
+	u_phi 2:   -0.756343735695556, 0.639319614474781, 0.138616680172006,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   30.1459712693878
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+
+	Incident Angle 2:   2theta: 33.32;  omega: 15.29;  chi: 33.2;  phi: 66
+	u_phi 2:   0.0873839015294524, 0.844622102482348, 0.528183261521784,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   83.481821001726
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+
+	Incident Angle 2:   2theta: -30.25;  omega: -15.03;  chi: 7.39;  phi: 124.42
+	u_phi 2:   -0.32746747504637, 0.936660587113351, 0.12422559050062,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   60.4036250729987
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+
+Incident Angle 1:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75
+	u_phi 1:   0.469650680496371, 0.38991289510228, 0.792083437866399,   |V| = 1
+	
+	Incident Angle 2:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161
+	u_phi 2:   -0.979815559700136, 0.170980060521565, 0.103572621254609,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   108.146102560272
+	Limit of (HKL) of n1 and n2:   3, 3, 3)
+
+	Incident Angle 2:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4
+	u_phi 2:   -0.756343735695556, 0.639319614474781, 0.138616680172006,   |V| = 1
+	Angle between u_phi 1 and u_phi 2: {0}:   89.7777544800122
+	Limit of (HKL) of n1 and n2:   4, 4, 4)
+**	(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+	2theta_1:   18.5361428518735
+	(HKL)_2:   (2, 0, -2, ) .... (2, 0, -2, )
+	2theta_2:   30.4962817514241
+	Calculated UB Matrix:   -0.0145  -0.0179  0.1827  
+							0.1744  -0.0585  0.0081  
+							0.0573  0.1737  0.0216  
+Testing:
+	Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... 
+		Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+	Difference in 2theta and Euler:   0.0561428518735418, 0
+	Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... 
+		Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+	Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+	UB Matrix Can Fit {0} Reflections:   2
+	(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+	2theta_1:   18.5361428518735
+	(HKL)_2:   (2, -2, 0, ) .... (2, -2, 0, )
+	2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0825  0.1147  0.1181  
+0.0745  -0.0917  0.1412  
+0.1468  0.1111  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1181  -0.0825  0.1147  
+0.1412  0.0745  -0.0917  
+-0.0053  0.1468  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0179  0.1827  -0.0145  
+-0.0585  0.0081  0.1744  
+0.1737  0.0216  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1827  -0.0145  -0.0179  
+0.0081  0.1744  -0.0585  
+0.0216  0.0573  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1147  0.1181  -0.0825  
+-0.0917  0.1412  0.0745  
+0.1111  -0.0053  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0825  0.1181  -0.1147  
+0.0745  0.1412  0.0917  
+0.1468  -0.0053  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0145  0.1827  0.0179  
+0.1744  0.0081  0.0585  
+0.0573  0.0216  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0179  -0.0145  -0.1827  
+-0.0585  0.1744  -0.0081  
+0.1737  0.0573  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1181  0.1147  0.0825  
+0.1412  -0.0917  -0.0745  
+-0.0053  0.1111  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1147  -0.0825  -0.1181  
+-0.0917  0.0745  -0.1412  
+0.1111  0.1468  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1827  -0.0179  0.0145  
+0.0081  -0.0585  -0.1744  
+0.0216  0.1737  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0145  -0.1827  -0.0179  
+0.1744  -0.0081  -0.0585  
+0.0573  -0.0216  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0825  -0.1181  0.1147  
+0.0745  -0.1412  -0.0917  
+0.1468  0.0053  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1181  -0.1147  -0.0825  
+0.1412  0.0917  0.0745  
+-0.0053  -0.1111  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0179  0.0145  0.1827  
+-0.0585  -0.1744  0.0081  
+0.1737  -0.0573  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1827  0.0179  -0.0145  
+0.0081  0.0585  0.1744  
+0.0216  -0.1737  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1147  0.0825  0.1181  
+-0.0917  -0.0745  0.1412  
+0.1111  -0.1468  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0825  -0.1147  -0.1181  
+0.0745  0.0917  -0.1412  
+0.1468  -0.1111  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0145  0.0179  -0.1827  
+0.1744  0.0585  -0.0081  
+0.0573  -0.1737  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.0179  -0.1827  0.0145  
+-0.0585  -0.0081  -0.1744  
+0.1737  -0.0216  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1181  0.0825  -0.1147  
+0.1412  -0.0745  0.0917  
+-0.0053  -0.1468  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1147  -0.1181  0.0825  
+-0.0917  -0.1412  -0.0745  
+0.1111  0.0053  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.1827  0.0145  0.0179  
+0.0081  -0.1744  0.0585  
+0.0216  -0.0573  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1147  -0.0825  0.1181  
+0.0917  0.0745  0.1412  
+-0.1111  0.1468  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1827  -0.0179  -0.0145  
+-0.0081  -0.0585  0.1744  
+-0.0216  0.1737  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0179  -0.0145  0.1827  
+0.0585  0.1744  0.0081  
+-0.1737  0.0573  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1181  0.1147  -0.0825  
+-0.1412  -0.0917  0.0745  
+0.0053  0.1111  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0825  0.1181  0.1147  
+-0.0745  0.1412  -0.0917  
+-0.1468  -0.0053  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0145  0.1827  -0.0179  
+-0.1744  0.0081  -0.0585  
+-0.0573  0.0216  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1827  -0.0145  0.0179  
+-0.0081  0.1744  0.0585  
+-0.0216  0.0573  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1147  0.1181  0.0825  
+0.0917  0.1412  -0.0745  
+-0.1111  -0.0053  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1181  -0.0825  -0.1147  
+-0.1412  0.0745  0.0917  
+0.0053  0.1468  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0179  0.1827  0.0145  
+0.0585  0.0081  -0.1744  
+-0.1737  0.0216  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0145  -0.0179  -0.1827  
+-0.1744  -0.0585  -0.0081  
+-0.0573  0.1737  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0825  0.1147  -0.1181  
+-0.0745  -0.0917  -0.1412  
+-0.1468  0.1111  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1147  -0.1181  -0.0825  
+0.0917  -0.1412  0.0745  
+-0.1111  0.0053  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1827  0.0145  -0.0179  
+-0.0081  -0.1744  -0.0585  
+-0.0216  -0.0573  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0179  -0.1827  -0.0145  
+0.0585  -0.0081  0.1744  
+-0.1737  -0.0216  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1181  0.0825  0.1147  
+-0.1412  -0.0745  -0.0917  
+0.0053  -0.1468  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0825  -0.1147  0.1181  
+-0.0745  0.0917  0.1412  
+-0.1468  -0.1111  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0145  0.0179  0.1827  
+-0.1744  0.0585  0.0081  
+-0.0573  -0.1737  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1827  0.0179  0.0145  
+-0.0081  0.0585  -0.1744  
+-0.0216  -0.1737  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1147  0.0825  -0.1181  
+0.0917  -0.0745  -0.1412  
+-0.1111  -0.1468  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   -0.1181  -0.1147  0.0825  
+-0.1412  0.0917  -0.0745  
+0.0053  -0.1111  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639213
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0179  0.0145  -0.1827  
+0.0585  -0.1744  -0.0081  
+-0.1737  -0.0573  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0145  -0.1827  0.0179  
+-0.1744  -0.0081  0.0585  
+-0.0573  -0.0216  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_1:   18.5361428518735
+(HKL)_2:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_2:   30.4962817514241
+Calculated UB Matrix:   0.0825  -0.1181  -0.1147  
+-0.0745  -0.1412  0.0917  
+-0.1468  0.0053  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+Incident Angle 2:   2theta: 33.32;  omega: 15.29;  chi: 33.2;  phi: 66
+u_phi 2:   0.0873839015294524, 0.844622102482348, 0.528183261521784,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   37.9321091912497
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: -30.25;  omega: -15.03;  chi: 7.39;  phi: 124.42
+u_phi 2:   -0.32746747504637, 0.936660587113351, 0.12422559050062,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   71.9507733915562
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 1:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4
+u_phi 1:   -0.756343735695556, 0.639319614474781, 0.138616680172006,   |V| = 1
+Incident Angle 2:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161
+u_phi 2:   -0.979815559700136, 0.170980060521565, 0.103572621254609,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   30.1459712693878
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75
+u_phi 2:   0.469650680496371, 0.38991289510228, 0.792083437866399,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   89.7777544800122
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+(HKL)_1:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0145  -0.1827  -0.0179  
+0.1744  -0.0081  -0.0585  
+0.0573  -0.0216  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0825  -0.1147  -0.1181  
+0.0745  0.0917  -0.1412  
+0.1468  -0.1111  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1147  -0.0825  0.1181  
+0.0917  0.0745  0.1412  
+-0.1111  0.1468  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 2, 0, ) .... (2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1827  -0.0145  0.0179  
+-0.0081  0.1744  0.0585  
+-0.0216  0.0573  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 2, 0, ) .... (2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0825  0.1181  -0.1147  
+0.0745  0.1412  0.0917  
+0.1468  -0.0053  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0145  0.0179  -0.1827  
+0.1744  0.0585  -0.0081  
+0.0573  -0.1737  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1827  -0.0179  -0.0145  
+-0.0081  -0.0585  0.1744  
+-0.0216  0.1737  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, 2, ) .... (2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1147  -0.1181  -0.0825  
+0.0917  -0.1412  0.0745  
+-0.1111  0.0053  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, 2, ) .... (2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0145  -0.0179  0.1827  
+0.1744  -0.0585  0.0081  
+0.0573  0.1737  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0825  -0.1181  0.1147  
+0.0745  -0.1412  -0.0917  
+0.1468  0.0053  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1147  0.1181  0.0825  
+0.0917  0.1412  -0.0745  
+-0.1111  -0.0053  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, 0, -2, ) .... (2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1827  0.0179  0.0145  
+-0.0081  0.0585  -0.1744  
+-0.0216  -0.1737  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0825  0.1147  0.1181  
+0.0745  -0.0917  0.1412  
+0.1468  0.1111  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0145  0.1827  0.0179  
+0.1744  0.0081  0.0585  
+0.0573  0.0216  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1827  0.0145  -0.0179  
+-0.0081  -0.1744  -0.0585  
+-0.0216  -0.0573  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (2, -2, 0, ) .... (2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1147  0.0825  -0.1181  
+0.0917  -0.0745  -0.1412  
+-0.1111  -0.1468  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (2, -2, 0, ) .... (2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0179  -0.0145  -0.1827  
+-0.0585  0.1744  -0.0081  
+0.1737  0.0573  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1181  -0.1147  -0.0825  
+0.1412  0.0917  0.0745  
+-0.0053  -0.1111  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1181  -0.0825  -0.1147  
+-0.1412  0.0745  0.0917  
+0.0053  0.1468  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, 2, ) .... (0, 2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0179  -0.1827  -0.0145  
+0.0585  -0.0081  0.1744  
+-0.1737  -0.0216  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, 2, ) .... (0, 2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1181  -0.0825  0.1147  
+0.1412  0.0745  -0.0917  
+-0.0053  0.1468  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0179  -0.1827  0.0145  
+-0.0585  -0.0081  -0.1744  
+0.1737  -0.0216  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0179  -0.0145  0.1827  
+0.0585  0.1744  0.0081  
+-0.1737  0.0573  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, 2, -2, ) .... (0, 2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1181  -0.1147  0.0825  
+-0.1412  0.0917  -0.0745  
+0.0053  -0.1111  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639213
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, 2, -2, ) .... (0, 2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0179  0.1827  -0.0145  
+-0.0585  0.0081  0.1744  
+0.1737  0.0216  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1181  0.0825  -0.1147  
+0.1412  -0.0745  0.0917  
+-0.0053  -0.1468  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1181  0.1147  -0.0825  
+-0.1412  -0.0917  0.0745  
+0.0053  0.1111  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, 2, ) .... (0, -2, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0179  0.0145  -0.1827  
+0.0585  -0.1744  -0.0081  
+-0.1737  -0.0573  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, 2, ) .... (0, -2, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1181  0.1147  0.0825  
+0.1412  -0.0917  -0.0745  
+-0.0053  0.1111  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.0179  0.0145  0.1827  
+-0.0585  -0.1744  0.0081  
+0.1737  -0.0573  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0179  0.1827  0.0145  
+0.0585  0.0081  -0.1744  
+-0.1737  0.0216  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (0, -2, -2, ) .... (0, -2, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   -0.1181  0.0825  0.1147  
+-0.1412  -0.0745  -0.0917  
+0.0053  -0.1468  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (0, -2, -2, ) .... (0, -2, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1827  -0.0145  -0.0179  
+0.0081  0.1744  -0.0585  
+0.0216  0.0573  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1147  -0.0825  -0.1181  
+-0.0917  0.0745  -0.1412  
+0.1111  0.1468  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126103
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0825  -0.1147  0.1181  
+-0.0745  0.0917  0.1412  
+-0.1468  -0.1111  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 2, 0, ) .... (-2, 2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0145  -0.1827  0.0179  
+-0.1744  -0.0081  0.0585  
+-0.0573  -0.0216  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 2, 0, ) .... (-2, 2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, 1, ) .... (1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1147  0.1181  -0.0825  
+-0.0917  0.1412  0.0745  
+0.1111  -0.0053  0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1827  0.0179  -0.0145  
+0.0081  0.0585  0.1744  
+0.0216  -0.1737  0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0145  -0.0179  -0.1827  
+-0.1744  -0.0585  -0.0081  
+-0.0573  0.1737  -0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, 2, ) .... (-2, 0, 2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, -1, ) .... (-1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0825  -0.1181  -0.1147  
+-0.0745  -0.1412  0.0917  
+-0.1468  0.0053  -0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, 2, ) .... (-2, 0, 2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, 1, -1, ) .... (1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1827  -0.0179  0.0145  
+0.0081  -0.0585  -0.1744  
+0.0216  0.1737  -0.0573  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, 1, -1, ) .... (1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1147  -0.1181  0.0825  
+-0.0917  -0.1412  -0.0745  
+0.1111  0.0053  -0.1468  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.50778223126076
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0825  0.1181  0.1147  
+-0.0745  0.1412  -0.0917  
+-0.1468  -0.0053  0.1111  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, 0, -2, ) .... (-2, 0, -2, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, -1, 1, ) .... (-1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0145  0.0179  0.1827  
+-0.1744  0.0585  0.0081  
+-0.0573  -0.1737  0.0216  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735454, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, 0, -2, ) .... (-2, 0, -2, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, 1, ) .... (1, -1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1147  0.0825  0.1181  
+-0.0917  -0.0745  0.1412  
+0.1111  -0.1468  -0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0261428518735443, 5.369904256392
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0361428518735423, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, 1, ) .... (1, -1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (1, -1, -1, ) .... (1, -1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.1827  0.0145  0.0179  
+0.0081  -0.1744  0.0585  
+0.0216  -0.0573  -0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (1, -1, -1, ) .... (1, -1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446781846
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, 1, ) .... (-1, 1, 1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0145  0.1827  -0.0179  
+-0.1744  0.0081  -0.0585  
+-0.0573  0.0216  0.1737  
+
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, 1, ) .... (-1, 1, 1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+(HKL)_1:   (-2, -2, 0, ) .... (-2, -2, 0, )
+2theta_1:   30.4962817514241
+(HKL)_2:   (-1, 1, -1, ) .... (-1, 1, -1, )
+2theta_2:   18.5361428518735
+Calculated UB Matrix:   0.0825  0.1147  -0.1181  
+-0.0745  -0.0917  -0.1412  
+-0.1468  0.1111  0.0053  
+
+Reflection 0:   2theta: 18.51;  omega: 8.99;  chi: 5.68;  phi: 90 ... Calculated (HKL) = (-1, -1, -1, ) .... (-1, -1, -1, )
+Difference in 2theta and Euler:   0.0261428518735407, 5.36990425639193
+Reflection 1:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161 ... Calculated (HKL) = (-1, -1, 1, ) .... (-1, -1, 1, )
+Difference in 2theta and Euler:   0.0361428518735458, 5.5077822312609
+Reflection 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75 ... Calculated (HKL) = (-1, 1, -1, ) .... (-1, 1, -1, )
+Difference in 2theta and Euler:   0.0561428518735418, 0
+Reflection 3:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4 ... Calculated (HKL) = (-2, -2, 0, ) .... (-2, -2, 0, )
+Difference in 2theta and Euler:   0.146281751424066, 0.305212446784234
+UB Matrix Can Fit {0} Reflections:   2
+Incident Angle 2:   2theta: 33.32;  omega: 15.29;  chi: 33.2;  phi: 66
+u_phi 2:   0.0873839015294524, 0.844622102482348, 0.528183261521784,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   56.8305135829606
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: -30.25;  omega: -15.03;  chi: 7.39;  phi: 124.42
+u_phi 2:   -0.32746747504637, 0.936660587113351, 0.12422559050062,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   30.2623589037133
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 1:   2theta: 33.32;  omega: 15.29;  chi: 33.2;  phi: 66
+u_phi 1:   0.0873839015294524, 0.844622102482348, 0.528183261521784,   |V| = 1
+Incident Angle 2:   2theta: 18.5;  omega: 9.05;  chi: 6.02;  phi: 161
+u_phi 2:   -0.979815559700136, 0.170980060521565, 0.103572621254609,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   83.481821001726
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: 18.48;  omega: 9.06;  chi: 53.33;  phi: 24.75
+u_phi 2:   0.469650680496371, 0.38991289510228, 0.792083437866399,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   37.9321091912497
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: 30.35;  omega: 15.24;  chi: 8.26;  phi: 124.4
+u_phi 2:   -0.756343735695556, 0.639319614474781, 0.138616680172006,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   56.8305135829606
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Incident Angle 2:   2theta: -30.25;  omega: -15.03;  chi: 7.39;  phi: 124.42
+u_phi 2:   -0.32746747504637, 0.936660587113351, 0.12422559050062,   |V| = 1
+Angle between u_phi 1 and u_phi 2: {0}:   34.093159363803
+Limit of (HKL) of n1 and n2:   4, 4, 4)
+Number of Reflections Fit By Best UB:   2
+Reflection 0:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (2, 0, 0, ) .... (2, 0, 0, )
+Difference in 2Theta and Euler:   2.92526357313259,  13.1949882872677
+Reflection 1:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (0, 0, -2, ) .... (0, 0, -2, )
+Difference in 2Theta and Euler:   2.93526357313259,  17.7431457457515
+Reflection 2:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (1, 1, 1, ) .... (1, 1, 1, )
+Difference in 2Theta and Euler:   0.0561428518735418,  0.110510531854135
+Reflection 3:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (2, 0, -2, ) .... (2, 0, -2, )
+Difference in 2Theta and Euler:   0.146281751424066,  0.110510531850837
+Reflection 4:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (3, 1, 1, ) .... (3, 1, 1, )
+Difference in 2Theta and Euler:   2.60503676670727,  8.62983926326326
+Reflection 5:   DAS.UBMatrix.INST_ANGLES[]  --> Caculated HKL = (-3, 0, 1, ) .... (-3, 0, 1, )
+Difference in 2Theta and Euler:   64.4503041324523,  171.047457822536
+

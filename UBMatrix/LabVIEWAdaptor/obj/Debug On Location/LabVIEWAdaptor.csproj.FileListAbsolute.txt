@@ -1,0 +1,13 @@
+C:\Ray\SPICE\Instrument_HB3A_test\Dev System\spice_code\fourcircle\LabVIEWAdaptor.dll
+C:\Ray\SPICE\Instrument_HB3A_test\Dev System\spice_code\fourcircle\LabVIEWAdaptor.pdb
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.csprojResolveAssemblyReference.cache
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.dll
+C:\Ray\Work Content\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.pdb
+C:\SPICE\Instrument_HB3A_test\Dev System\spice_code\fourcircle\LabVIEWAdaptor.dll
+C:\SPICE\Instrument_HB3A_test\Dev System\spice_code\fourcircle\LabVIEWAdaptor.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.csprojResolveAssemblyReference.cache
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.pdb
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.csprojResolveAssemblyReference.cache
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.dll
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug On Location\LabVIEWAdaptor.pdb

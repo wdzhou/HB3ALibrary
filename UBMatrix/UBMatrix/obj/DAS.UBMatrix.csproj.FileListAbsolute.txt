@@ -1,0 +1,17 @@
+C:\Projects\SINGLE\UBMatrix\UBMatrix\bin\Debug\UBMatrix.dll
+C:\Projects\SINGLE\UBMatrix\UBMatrix\bin\Debug\UBMatrix.pdb
+C:\Projects\SINGLE\UBMatrix\UBMatrix\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SINGLE\UBMatrix\UBMatrix\obj\Debug\UBMatrix.dll
+C:\Projects\SINGLE\UBMatrix\UBMatrix\obj\Debug\UBMatrix.pdb
+D:\Project\UBMatrix\trunck\UBMatrix\bin\Debug\UBMatrix.dll
+D:\Project\UBMatrix\trunck\UBMatrix\bin\Debug\UBMatrix.pdb
+D:\Project\UBMatrix\trunck\UBMatrix\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\UBMatrix\trunck\UBMatrix\obj\Debug\UBMatrix.dll
+D:\Project\UBMatrix\trunck\UBMatrix\obj\Debug\UBMatrix.pdb
+D:\Project\UBMatrix\trunck\UBMatrix\bin\Debug\UBMatrix.XML
+D:\Project\UBMatrix\trunk\UBMatrix\bin\Debug\UBMatrix.dll
+D:\Project\UBMatrix\trunk\UBMatrix\bin\Debug\UBMatrix.pdb
+D:\Project\UBMatrix\trunk\UBMatrix\bin\Debug\UBMatrix.XML
+D:\Project\UBMatrix\trunk\UBMatrix\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\UBMatrix\trunk\UBMatrix\obj\Debug\UBMatrix.dll
+D:\Project\UBMatrix\trunk\UBMatrix\obj\Debug\UBMatrix.pdb

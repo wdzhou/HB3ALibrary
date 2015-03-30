@@ -1,0 +1,6 @@
+bin\Debug\UBMatrix.dll
+bin\Debug\UBMatrix.pdb
+bin\Debug\UBMatrix.XML
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UBMatrix.dll
+obj\Debug\UBMatrix.pdb

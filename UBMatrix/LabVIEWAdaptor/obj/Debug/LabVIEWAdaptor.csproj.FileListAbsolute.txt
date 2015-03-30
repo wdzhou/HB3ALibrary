@@ -1,0 +1,24 @@
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.dll
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.pdb
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.dll
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.pdb
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.xml
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.dll
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.pdb
+C:\Projects\UBMatrix\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.dll
+C:\Projects\UBMatrix\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.pdb
+C:\Projects\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.dll
+C:\Projects\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.pdb
+C:\Projects\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.xml
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.dll
+C:\Projects\UBMatrix\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\bin\Debug\UBMatrix.xml
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.csprojResolveAssemblyReference.cache
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.pdb

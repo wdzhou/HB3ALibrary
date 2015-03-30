@@ -1,0 +1,8 @@
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.dll
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\bin\Debug\LabVIEWAdaptor.pdb
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.dll
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.pdb
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\bin\Debug\UBMatrix.xml
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.dll
+D:\Project\UBMatrix\trunk\LabVIEWAdaptor\obj\Debug\LabVIEWAdaptor.pdb

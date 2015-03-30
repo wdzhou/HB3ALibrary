@@ -1,0 +1,17 @@
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\bin\Debug\UBMatrix.dll
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\bin\Debug\UBMatrix.pdb
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\bin\Debug\UBMatrix.XML
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\obj\Debug\UBMatrix.dll
+C:\Work\Project\HB3A 4-CIRCLE\UBMatrix Trunk\UBMatrix\obj\Debug\UBMatrix.pdb
+C:\Projects\UBMatrix\UBMatrix\bin\Debug\UBMatrix.dll
+C:\Projects\UBMatrix\UBMatrix\bin\Debug\UBMatrix.pdb
+C:\Projects\UBMatrix\UBMatrix\bin\Debug\UBMatrix.XML
+C:\Projects\UBMatrix\UBMatrix\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\UBMatrix\UBMatrix\obj\Debug\UBMatrix.dll
+C:\Projects\UBMatrix\UBMatrix\obj\Debug\UBMatrix.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug\UBMatrix.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug\UBMatrix.pdb
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\bin\Debug\UBMatrix.XML
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug\UBMatrix.dll
+C:\Ray\Source Control\HFIR Experiments\Instruments\HB-3A (Four-Circle)\UBMatrix\trunk\UBMatrix\UBMatrix\obj\Debug\UBMatrix.pdb
