@@ -1,23 +1,15 @@
-New features:
+New features implemented in March/April 2015
  1. Expose the calculation of estimated error for *refined* UB matrix; 
-  * Equation: :math:`\sigma` 
- 2. 
+  * Equation: 
 
 
-
-I. Test
-
-Test Plan for UBMatrix library
-
-1. Vector
-2. Matrix simple operation (multiply, transpose, and etc)
-3. Matrix advanced operation (LU decomposition, matrix inverse)
-4. UB matrix
-5. Unit test
-
-II. Expansion from SINGLE-Fortran 1st Quarter
-1. Can use UB matrix to determine the motor position of given (H, K, L)
-
-III. Expansion from SINGLE-Fortran 2nd Quarter
-1. Least square fitting works
-2. Refinement of UB matrix
+Features:
+ 1. UB matrix calculation
+  * Calculate UB matrix from 2 reflections;
+  * Calculate UB matrix from 3 reflections;
+  * Refine UB matrix by least square fitting
+ 2. Experiment plan from known UB matrix
+  * Calculate motor positions from Miller index (HKL)
+ 3. Testing:
+  * Unit test
+ 
