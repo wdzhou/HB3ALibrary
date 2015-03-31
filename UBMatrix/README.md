@@ -1,6 +1,7 @@
 New features:
-1. Expose the calculation of estimated error for *refined* UB matrix; 
-2. 
+ 1. Expose the calculation of estimated error for *refined* UB matrix; 
+  * Equation: :math:`\sigma` 
+ 2. 
 
 
 
