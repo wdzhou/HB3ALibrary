@@ -1,6 +1,10 @@
 New features implemented in March/April 2015
  1. Expose the calculation of estimated error for *refined* UB matrix; 
-  * Equation: 
+  * Equation: $$\alpha$$
+   
+    $$I = \int \rho R^{2} dV$$
+
+  * Next
 
 
 Features:
