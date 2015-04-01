@@ -13,7 +13,7 @@ Features:
  3. Testing: 
   * Functional test (DebugTest.cs)
   * System test (SystemTest.cs)
-  * Command line interactive application to test without GUI (Workflow.cs)riv102er
+  * Command line interactive application to test without GUI (Workflow.cs)
   * 
   
 Error estimation of refined UB matrix
